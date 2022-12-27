@@ -7,3 +7,7 @@ position was created as a result of a recent strategic hiring initiative by UCF 
 programs in business analytics to be delivered in collaboration with its Department of Statistics and Data Science.  Prior to working at UCF, for three
 years, I was employed as a principal economist at Amazon.com in Seattle.  Prior to that I was employed at the universities of British Columbia and Western
 Ontario as well as the universities of Iowa and Melbourne.
+
+You can find more informaton about me at the following URL:
+
+https://github.com/hjpaarsch/webpage/wiki/Homepage-for-Harry-J.-Paarsch
