@@ -1,5 +1,4 @@
-# In Brief
-Harry J. Paarsch
+# Harry J. Paarsch:  In Brief
 
 I am an applied economist and data scientist, and Professor of Business Analytics in the College of Business at the University of Central Florida in
 Orlando, Florida.  Since 2015, I have been developing data science courses and programs in general, but business analytics ones in particular.  My 
